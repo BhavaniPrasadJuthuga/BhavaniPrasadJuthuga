@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhavaniPrasadJuthuga
 - 👀 I’m interested in Software Technologies
-- 🌱 I’m currently learning Pthon full stack develoment
+- 🌱 I’m currently learning Python full stack develoment
 - 💞️ I’m looking for job oppurtunitites on software field
 - 📫 you can find me at bhavaniprasadjuthuga1110@gmail.com
 
